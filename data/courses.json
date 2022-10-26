@@ -1,0 +1,67 @@
+[
+    {
+        "id":"1",
+        "courseName":"Master In Laravel",
+        "totalClass": "720",
+        "ratings" : "4.6",
+        "instructor" :" Al-amin Mondal",
+        "img" : "",
+        "courseInfo": "In This Course, You Will Build Two Different Projects With Laravel 9 including   Inventory Management System A-Z",
+        "whatWillLearn":["Laravel 9 Authentication with Breeze","Purchase Management"]
+    },
+
+    {
+        "id":"2",
+        "courseName":"NodeJs For Server Side",
+        "totalClass": "600",
+        "ratings" : "4.8",
+        "instructor" :"Jhankar Mahabub ",
+        "img" : "",
+        "courseInfo": ""
+    }
+    ,{
+        "id":"3",
+        "courseName":" React Js Advanced",
+        "totalClass": "300",
+        "ratings" : "4.8",
+        "instructor" :"Jhankar Mahabub",
+        "profile":"",
+        "img" : "",
+        "courseInfo": ""
+    }
+    ,
+
+    {
+        "id":"4",
+        "courseName":" Vue Js",
+        "totalClass": "220",
+        "ratings" : "4.7",
+        "instructor" :"Anil Shidhu",
+        "img" : "",
+        "courseInfo": ""
+    },
+
+    {
+        "id":"5",
+        "courseName":" Learn Python ",
+        "totalClass": "600",
+        "ratings" : "4.7",
+        "instructor" :"Jhankar Mahabub ",
+        "profile":"",
+        "img" : "",
+        "courseInfo": ""
+    },
+
+
+    {
+        "id":"6",
+        "courseCatId":"3",
+        "courseName": "Digital Marketing",
+        "totalClass": "100",
+        "ratings" : "4.6",
+        "instructor" :"Khalid Farhan",
+        "img" : "",
+        "courseInfo": ""
+    }
+
+]
