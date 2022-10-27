@@ -5,15 +5,16 @@
         "totalClass": "720",
         "ratings" : "4.6",
         "instructor" :" Al-amin Mondal",
-        "thumbNail" : "https://www.concettolabs.com/blog/wp-content/uploads/2018/02/imageedit_1_7974903516-1-1.png",
-        "img":"https://www.concettolabs.com/blog/wp-content/uploads/2018/02/imageedit_1_7974903516-1-1.png",
+        "thumbNail" : "https://i.ibb.co/Dwc0vfS/laravel.png",
+        "img":"https://i.ibb.co/Dwc0vfS/laravel.png",
         "courseInfo": "Laravel is a free and open-source PHP web framework, created by Taylor Otwell and intended for the development of web applications following the model–view–controller architectural pattern and based on Symfony",
 
         "whatWillLearn":
         ["Laravel 9 Authentication with Breeze","Purchase Management",
         "Manage Invoice Approval","Manage Daily Invoice Report","Manage Invoice Setup",
         "Manage Invoice Pdf Generator"
-        ]
+        ],
+        "price":"100"
     },
 
     {
@@ -22,14 +23,15 @@
         "totalClass": "600",
         "ratings" : "4.8",
         "instructor" :"Jhankar Mahabub ",
-        "thumbNail" : "https://www.section.io/engineering-education/history-of-nodejs/nodejs-use-cases-cover-image.png",
-        "img" : "https://www.section.io/engineering-education/history-of-nodejs/nodejs-use-cases-cover-image.png",
+        "thumbNail" : "https://i.ibb.co/8YbvppJ/nodejs.png",
+        "img" : "https://i.ibb.co/8YbvppJ/nodejs.png",
         "courseInfo": "Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on a JavaScript Engine and executes JavaScript code outside a web browser, which was designed to build scalable network applications",
         "whatWillLearn":
         ["Work with one of the most in-demand web development programming languages",
         "Build modern, fast and scalable server-side web applications with NodeJS, databases like SQL or MongoDB and more",
         "Get a thorough introduction to DenoJS","Learn the basics as well as advanced concepts of NodeJS in great detail","Understand the NodeJS ecosystem and build server-side rendered apps, REST APIs and GraphQL APIs"
-        ]
+        ],
+        "price":"110"
     }
     ,{
         "id":"3",
@@ -37,14 +39,15 @@
         "totalClass": "300",
         "ratings" : "4.8",
         "instructor" :"Jhankar Mahabub",
-        "thumbNail" : "https://miro.medium.com/max/1400/0*EitUXT-pqbaQSCTt.gif",
-        "img" : "https://miro.medium.com/max/1400/0*EitUXT-pqbaQSCTt.gif",
+        "thumbNail" : "https://i.ibb.co/wMvcbnn/reactjs.gif",
+        "img" : "https://i.ibb.co/wMvcbnn/reactjs.gif",
         "courseInfo": "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components.",
         "whatWillLearn":
         ["Laravel 9 Authentication with Breeze","Purchase Management",
         "Manage Invoice Approval","Manage Daily Invoice Report","Manage Invoice Setup",
         "Manage Invoice Pdf Generator"
-        ]
+        ],
+        "price":"120"
     }
     ,
 
@@ -54,13 +57,14 @@
         "totalClass": "220",
         "ratings" : "4.7",
         "instructor" :"Anil Shidhu",
-        "thumbNail" : "https://wallpapercave.com/wp/wp7134573.jpg",
-        "img" : "https://wallpapercave.com/wp/wp7134573.jpg",
+        "thumbNail" : "https://i.ibb.co/b7wzPx2/vuejs.jpg",
+        "img" : "https://i.ibb.co/b7wzPx2/vuejs.jpg",
         "courseInfo": "Vue.js is an open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications. It was created by Evan",
         "whatWillLearn":
         ["Build amazing Vue.js Applications - all the Way from Small and Simple Ones up to Large Enterprise-level Ones", "Leverage Vue.js in both Multi- and Single-Page-Applications (MPAs and SPAs)",
         "Understand the Theory behind Vue.js and use it in Real Projects","Learn the latest version of Vue (Vue 3), including the brand-new Composition API","Manage Invoice Setup"
-        ]
+        ],
+        "price":"100"
     },
 
     {
@@ -69,14 +73,15 @@
         "totalClass": "600",
         "ratings" : "4.7",
         "instructor" :"Jhankar Mahabub ",
-        "thumbNail" : "https://preview.redd.it/rxezjyf4ojx41.png?auto=webp&s=f0cde794697d0904e44ca09a4f1e703cfecaf60a",
-        "img" : "https://preview.redd.it/rxezjyf4ojx41.png?auto=webp&s=f0cde794697d0904e44ca09a4f1e703cfecaf60a",
-        "courseInfo": "",
+        "thumbNail" : "https://i.ibb.co/0XqQty2/Learn-Python-1.jpg",
+        "img" : "https://i.ibb.co/0XqQty2/Learn-Python-1.jpg",
+        "courseInfo": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.",
         "whatWillLearn":
         ["Have a fundamental understanding of the Python programming language.","Acquire the pre-requisite Python skills to move into specific branches - Machine Learning, Data Science, etc..",
         "Understand how to create your own Python programs.","Understand both Python 2 and Python 3.","Have the skills and understanding of Python to confidently apply for Python programming jobs.",
         "Add the Python Object-Oriented Programming (OOP) skills to your résumé."
-        ]
+        ],
+        "price":"99"
     },
 
 
@@ -87,14 +92,15 @@
         "totalClass": "100",
         "ratings" : "4.6",
         "instructor" :"Khalid Farhan",
-        "thumbNail" : "https://www.1980media.com/wp-content/uploads/2021/05/pelatihan-basic-digital-marketing-1170x700.jpg",
-        "img" : "https://www.1980media.com/wp-content/uploads/2021/05/pelatihan-basic-digital-marketing-1170x700.jpg",
-        "courseInfo": "",
+        "thumbNail" : "https://i.ibb.co/LrTJWq6/digitalmarket.webp",
+        "img" : "https://i.ibb.co/LrTJWq6/digitalmarket.webp",
+        "courseInfo": "Digital marketing is the component of marketing that uses the Internet and online based digital technologies such as desktop computers, mobile phones and other digital media and platforms to promote products and services",
         "whatWillLearn":
         ["Understand the basics of growth marketing and traction channels","Successfully drive sales through posting & commenting on Reddit, ProductHunt, & HackerNews",
         "Market using 3 different techniques on Instagram","Market using 4 different techniques on SnapChat","Analyze your on site SEO factors and optimize them",
         "Conduct keyword research for SEO opportunities"
-        ]
+        ],
+        "price":"80"
     }
 
 ]
